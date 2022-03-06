@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "819360889393",
+    "firebase_url": "https://cloudpicture-ff393-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cloudpicture-ff393",
+    "storage_bucket": "cloudpicture-ff393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819360889393:android:4273a46f61b8698441b310",
+        "android_client_info": {
+          "package_name": "com.example.cloudpicture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819360889393-bk9sue4npkcfrqo47et9bsjns1lii67g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsEdlNDNOyBi-DUdq3zUgIin9SxCzR4ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819360889393-bk9sue4npkcfrqo47et9bsjns1lii67g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
